@@ -1,2 +1,1 @@
-# Power-BI-Excel-projects
-projects, work on Power BI, Excel
+# This repository contains projects, data Analysis works in Power BI, Excel.
